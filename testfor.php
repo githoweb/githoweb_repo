@@ -2,7 +2,7 @@
 // kjhkjhkj
 // !-- 
 
- for($i = 1; $i < 2000000; premier($i)) {
+ for($i = 1; $i < 200; $i++) {
     echo $i;
     echo "<br>";
  }
